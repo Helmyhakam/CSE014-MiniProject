@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
     int age;
-    cout <<"inter your age to take your ticket : ";
+    cout <<"inter your age to take your ticket : b";
     cin >> age;
     cout << endl;
     if (age <0 ){
